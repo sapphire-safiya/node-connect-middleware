@@ -1,0 +1,12 @@
+/
+Error: This is an Error
+    at W:\nodeJS-practice\connect-middleware\errorCreator.js:3:14
+    at call (W:\nodeJS-practice\node_modules\connect\index.js:239:7)
+    at next (W:\nodeJS-practice\node_modules\connect\index.js:183:5)
+    at SendStream.error (W:\nodeJS-practice\node_modules\serve-static\index.js:120:7)
+    at emitOne (events.js:77:13)
+    at SendStream.emit (events.js:169:7)
+    at SendStream.error (W:\nodeJS-practice\node_modules\serve-static\node_modules\send\index.js:245:17)
+    at SendStream.onStatError (W:\nodeJS-practice\node_modules\serve-static\node_modules\send\index.js:356:12)
+    at next (W:\nodeJS-practice\node_modules\serve-static\node_modules\send\index.js:658:28)
+    at W:\nodeJS-practice\node_modules\serve-static\node_modules\send\index.js:666:23
